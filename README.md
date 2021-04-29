@@ -25,7 +25,7 @@ git clone https://github.com/maverick439/bankingSystem
 Copy the sample database.yml file and edit the database configuration as required.
 
 ```bash
-cp config/database.yml.sample config/database.yml
+cp config/database.yml.bankingBack_development config/database.yml
 ```
 
 ##### 3. Create and setup the database
