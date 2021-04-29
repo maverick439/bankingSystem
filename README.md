@@ -17,7 +17,7 @@ The setups steps expect following tools installed on the system.
 ##### 1. Check out the repository
 
 ```bash
-git clone https://github.com/maverick439/bankingSystem
+git clone https://github.com/maverick439/bankingSystem.git
 ```
 
 ##### 2. Create database.yml file
