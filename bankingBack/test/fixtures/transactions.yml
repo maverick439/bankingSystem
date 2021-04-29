@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  account_no: MyString
+  transaction_type: MyString
+  transaction_amount: 1.5
+  mode: MyString
+  state: MyString
+
+two:
+  user_id: 1
+  account_no: MyString
+  transaction_type: MyString
+  transaction_amount: 1.5
+  mode: MyString
+  state: MyString

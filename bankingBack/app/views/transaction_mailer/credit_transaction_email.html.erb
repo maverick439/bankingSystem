@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h1>Hi, <%= @email_details.first_name %></h1>
+    <p>
+      You have successfully done the transaction of,
+      amount of RS : <%= @email_details.transaction_amount %><br>
+      the account <%= @email_details.account_no %>
+    </p>
+    <p>Thanks for trusting and have a great day!</p>
+  </body>
+</html>
