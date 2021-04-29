@@ -13,6 +13,7 @@ The setups steps expect following tools installed on the system.
 - Github
 - Ruby [3.0.1](https://github.com/organization/project-name/blob/master/.ruby-version#L1)
 - Rails [6.1.3](https://github.com/organization/project-name/blob/master/Gemfile#L12)
+- Database: Postgresql [1.1](http://www.postgresql.org)
 
 ##### 1. Check out the repository
 
